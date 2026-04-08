@@ -2,6 +2,7 @@
 
 ## Author
 Louis Figes
+Date: 2024
 
 ## Notes
 For all endpoints with string parameters, the case is irrelevant
